@@ -354,6 +354,7 @@ body {
   justify-content: center;
 
   pointer-events: none;
+  -webkit-user-select: none;
   user-select: none;
 }
 
